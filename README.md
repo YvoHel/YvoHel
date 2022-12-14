@@ -3,14 +3,28 @@
 I’m currently working on my last assignment before i finish my education at Noroff as a Frontend developer.💻
 
 
-Skills/languages
+## Skills/languages
+``
 •	HTML
+``
+``
 •	CSS
+``
+``
 •	SCSS
-•	JavaScript 
-•	React 
-• Next.js
+``
+``
+•	JavaScript
+``
+``
+•	React
+``
+``
+•	Next.js
+``
+``
 •	Bootstrap
+``
 
 
 
