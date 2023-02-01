@@ -1,6 +1,7 @@
 ### Hi there 👋 My name is Yvonne.
 
-I’m currently working on my last assignment before i finish my education at Noroff as a Frontend developer.💻
+
+Im a frontend-developer💻
 
 
 ## Skills/languages
@@ -24,6 +25,9 @@ I’m currently working on my last assignment before i finish my education at No
 ``
 ``
 •	Bootstrap
+``
+``
+•	Wordpress
 ``
 
 
